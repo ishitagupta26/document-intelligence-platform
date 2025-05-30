@@ -27,7 +27,6 @@ An AI-powered document intelligence web app that allows users to upload document
 
 --Backend
 
-```bash
 cd doc_ai_backend
 python -m venv venv
 venv\Scripts\activate  # or source venv/bin/activate
